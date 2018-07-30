@@ -7,4 +7,5 @@ Included here are materials from national fellowships or scholarships I have suc
 Seth W. Musser
 
 Email: swmusser@mit.edu
-Website: swmusser.com
+
+Website: https://swmusser.com
